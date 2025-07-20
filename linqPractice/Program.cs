@@ -85,6 +85,12 @@ namespace linqPractice
             {
                 Console.WriteLine($"Name: {dep.Name}");
             }
+
+            //
+            foreach (var dep in allEmployee)
+            {
+                Console.WriteLine($"Name: {dep.Name}");
+            }
         }
     }
 }
