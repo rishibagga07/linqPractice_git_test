@@ -8,5 +8,6 @@ namespace linqPractice.branch4
 {
     public class branch4
     {
+        string dd = "";
     }
 }
