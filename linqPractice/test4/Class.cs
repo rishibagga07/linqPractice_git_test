@@ -11,5 +11,6 @@ namespace linqPractice.test4
         string ss = "";
         string gg = "";
         string ii = "";
+        string oo = "";
     }
 }
