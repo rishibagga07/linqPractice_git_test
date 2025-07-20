@@ -8,5 +8,6 @@ namespace linqPractice.test4
 {
     public class Class
     {
+        string ss = "";
     }
 }
