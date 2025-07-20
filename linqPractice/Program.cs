@@ -87,10 +87,12 @@ namespace linqPractice
             }
 
             //
-            foreach (var dep in allEmployee)
+            foreach (var dep in allEmployee rfdfdfdf)
             {
                 Console.WriteLine($"Name: {dep.Name}");
             }
+
+
         }
     }
 }
