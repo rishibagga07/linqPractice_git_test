@@ -87,7 +87,7 @@ namespace linqPractice
             }
 
             //
-            foreach (var dep in allEmployee rfdfdfdf)
+            foreach (var dep in allEmployee)
             {
                 Console.WriteLine($"Name: {dep.Name}");
             }
