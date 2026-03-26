@@ -8,5 +8,8 @@ namespace linqPractice.branch3
 {
     public class branch3
     {
+        public int MyProperty { get; set; }
+
+        public int MyProperty1 { get; set; }
     }
 }
